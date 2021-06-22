@@ -1,0 +1,2 @@
+python-dotenv # ==10.18.0
+-r requirements/production
